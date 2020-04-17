@@ -1,0 +1,246 @@
+Jane Doe
+Profile
+
+Energetic outgoing professional Project Manager, Program Manager, Business Operations Manager and Director of I.T. with 15+ years of proven results.   Strong team builder, mentor, facilitator and motivator.   Superb communication skills and experienced in private and public milieus.
+
+
+Professional Experience
+
+Reference # 4
+: ITO 2.0, Ottawa, ON
+Project:  Client Relationship Management system (CRM)
+Oct 2018 – Present
+
+Project Manager 
+
+    • Participated in the organization and project management of a Customer Relationship Management (CRM) system designed for ysb/ITO 2.0, Employment Ontario use
+    • Facilitate discussions on scope and roles with the Product Owner, Business Analysts and Scrum Masters
+    • Responsible for promoting the common understanding of the requirements, capturing and improving the development process, and ensuring consistency of the work flow across teams
+    • Enhance Agile skillset through online courses and being active in the project team
+    • Produced a document to help with onboarding new members that join the Peer Group weekly
+    • Ramped up on Behavior-Driven Design (BDD) and Specification by Example to improve the efficiency of the development flow and the communication of specifications between the product owner, business analysts, developers and testers
+    • Initiated and led BDD discussion for the Product Owner and the Business Analysts 
+    • Adopted the project methodology currently in use in order to move toward a transition from a generic Agile implementation to BDD
+    • Co-led a Three Amigos meeting with one of the teams, resulting in a user story and related scenarios following BDD principles
+    • Plan the implementation of automated acceptance tests (scenarios) with the responsible architect
+    • Shadow the main Scrum Master to learn the role and serve as backup
+    • Revise and complete the translation of French instructions for a previous project of the project team, to meet provincial requirements on bilingualism
+
+Environment: Agile, Scrum Task Board, Customer Relationship Management (CRM) system, Behavior-Driven Design (BDD), User Stories, Scenarios, Specification by Example, Trello, Slack, Google Drive, Wiki
+
+
+Reference # 3
+AVA Systems, Ottawa, On
+Mar 2015 – Aug 2018
+
+Business Operations Manager
+
+    • Responsible for staff job scheduling, time sheets, expense claims and annual leave administration
+    • Managed resource allocations and utilization against project budgets for multiple client contracts
+    • Performed updates on Pipeline - Client Opportunity Management tool -  recorded new work orders, new client deals and resource RFP response files
+    • Oversaw weekly project status reporting from all staff and contractors, prepared project reports, reviewed project budgets and time lines and allocated staff for maximum utilization on all active projects
+    • Created and prepared RFP Responses to private and public I.T. opportunities
+    • Performed candidate search, resume grooming and grid population in preparation for RFP submissions on upcoming project opportunities
+    • Resolved client scheduling and billing issues 
+    • Wrote technical reports, project updates, job descriptions and prepared Statements of Work (SOWs)
+    • Managed job postings on eWeb tool and Monster  
+
+Environment:  Pipeline, MS CRM, RFP, RFI, RFQ, TBIPS, SBIPS, SOW, Monster, eWeb, Networks, VMWare
+
+
+Reference # 2
+PriceWaterhouse Coopers, Ottawa, On
+Client – Nortel Networks
+Apr 2011 – Feb 2015
+
+Project Manager / Director - Supply Management & HR Systems
+
+    • Accountable for the completion and support of complex IT infrastructure projects and operations for client – Nortel in the realm of Supply Chain and HR systems development and SDLC lifecycle management
+    • Responsible for financial management, governance, new business development, deployment, steady state, archiving and operational planning of supply management, materials and procurement
+    • Key contributor to the 5 year Capital Plan preparation at the senior management level
+    • Projects ranged from $10,000. -  $23 million, and a departmental budget of $2.5 million
+    • Provided leadership and management of 35 direct reports
+    • Set up product life cycle methodologies for areas of responsibility, including IT vendor service management, and software contract management
+    • Directed the development of detailed business cases outlining project goals, milestones, resource requirements and associated costs and a detailed cost-benefit analysis
+    • Assessed impact, effectiveness and feasibility of proposed schedule, cost and resource changes, made decisions and recommendations regarding feasibility and implementation of major services
+    • Developed recovery plan for issues identified, reduced risks
+    • Developed and managed relationships with business partners
+    • Ensured projects were delivered on schedule, within budget, with quality results
+    • Chaired lessons learned upon project closures
+    • Performed client relationship management role on behalf of Supply Management Systems. Client - Nortel Networks.  Developed a successful team culture that led to a collaborative, sharing and synergistic sales focused environment for teams managed
+    • Managed teams involved with analyzing functional requirements, evaluating alternative and strategic technology solutions to resolve client business problems
+    •  Chaired regular project review meetings and reported status to clients and stakeholders
+    • Managed changes to scope and requirements using a formal change control process
+    • Managed project issues and risks, stored project deliverables in the project repository. (Livelink)
+    • Prepared detail plans for the technical design, programming and implementation phases of Supply Management and HR Systems IT projects
+    • Led requirements analysis sessions with clients and technical design sessions with developers to determine information needs, processing rules, procedures and decision flows
+    • Recruited highly qualified permanent and contract staff to ensure staffing levels and project results met client expectations at all times
+    • Implemented team improvement initiatives and directed staff so that they pursued excellent paths of personal development and growth
+    • Provided weekly Project Status Reports to client, using project status (green/yellow/red) methodology
+
+Environment:  Informix, Remedy, Oracle 8/9/11i, Personix, Resumix, PL/SQL, XML, POL-SuMitt, Java, JavaScript, HTML, HP UNIX, Citrix Metaframe, RDBMS, C++, Entrust PKI, Shell Scripting, Business Objects, Web Intelligence, HTTP Internet, MS Project, SOW, WBS, Project Charter, PIA Assessment, Risk Assessment
+
+
+Reference # 1
+Digital Equipment of Canada, Ottawa, On
+Feb 2008 – Feb 2011
+
+Project Manager
+
+    • Accountable for all business and project aspects in the development and introduction of new personal computers, desk top/desk side, workstations, modules, options, and semi-conductor technology supporting the Americas markets
+    • Managed  software development life cycle (SDLC) of 5-10 mid to large-scale projects on a continuous basis, providing the required staff management of cross-functional teams
+    • Developed MS Project plans and project schedules which supported corporate goals and milestones
+    • Ensured project requirements were met, including supplier set up, material acquisition, logistics, project schedules, costs, risk mitigation, on time delivery and quality elements were met 
+    • Interfaced with plant and corporate program teams, acquisition, and world-wide manufacturing representatives involved with the planned product releases
+    • Created Product Roles and Responsibilities Handbook which documented all cross-functional departmental responsibilities as they relate to Product Life Cycle Management.  This document provided clear accountability and performance expectations of cross-functional teams and was used extensively at the Kanata facility and later adopted and implemented at all Digital worldwide manufacturing plants
+
+Environment:  MS Project, Rackmount, mainframe, fiber cabling, SANS, MS Outlook, Word, Excel, PowerPoint, Personal Computers, Servers, Mobiles, MS Project, SOW, WBS, Project Charter, Risk Assessment, MS Office
+
+
+
+
+Educational Background
+Accounting and Payroll 
+Administration Diploma
+Everest College, Ottawa, Ontario
+Key Courses:
+Accounting 1, 2, Bookkeeping 1, 2
+Computerized Accounting - AccPac , Simply Accounting
+Certified Payroll Administrator - CPA designation
+Payroll Compliance Practitioner – PCP certified
+
+Bachelor of Science Degree – 
+Mechanical Engineering
+Carleton University – Ottawa, Ontario
+Honors Graduate
+
+Professional Development
+Algonquin College- Ottawa, Ontario
+APICS Certification Program:
+Materials Management
+Inventory Management
+Capacity Planning
+Master Scheduling
+
+Management Studies Certificate 
+(Business Administration)
+Algonquin College- Ottawa, Ontario
+Key Courses: 
+Project Management, Operations Management
+Report Writing, Principles Management
+Management by Objectives, Management Essentials
+Organizational Behavior, Business Law and Contracts
+
+Skills and Attributes
+
+Design Tools and Applications
+3D Studio Max, Maya, Blender, MudBox, AutoCad, SoftImage, Motion Builder, AutoCAD Mep 3D, Autodesk building systems 2004, Autoplant/Rebis, 3D Piping, CADPipe, 3D ducting, Adobe Photoshop, Audition, Illustrator, Premier, Story, Paint Tool Sai, GIMP, Open Canvas, Corel Painter, Manga Studio, MS Paint, Eclipse, Microsoft Visual Studio, XCode, Adobe Flash Professional, FL Studio, Sony ACID, Audacity, Garage Band, Live Delta, iMusic, Fine Arts Studio, Game Design, Graphic Design-Media
+
+ASIC/FPGA Design and Analysis Tools
+Verilog XL, NC-Verilog, Debussy, Verilint, NCSim, Signalscan, Perl (learning) Synplify/Synplify Pro, Xilinx ISE, Altera Quartus II
+Lattice IspLever, Cadence FPGA System Planner (FSP)
+
+Hardware Design Tools
+Cadence Concept, OrCAD, UniCAD Schematic, Mentor DxDesigner, UniCAD Layout, Cadence Allegro, HSPICE, pSPICE, IBIS, Matlab/Simulink, Timing Designer
+
+Hardware Development Skills
+Board design experience (PCB) with Platform FPGAs, ASICs, CPLDs, Motorola Power PC microprocessors, memories, PLLs, analog circuits, CMOS/TTL, Mentor Graphics Expedition
+FPGA design experience and training with VHDL, Verilog, Exemplar synthesis, Xilinx ISE, Model Technology functional and timing simulation, Altera, and Lattice place-and-route
+
+Test Engineering Tools and Expertise
+VB, C, C++, Matlab, LabVIEW, TL1, Optsim in Windows or Unix
+EXFO optical Test Set, HP Omni Optical Test Set 
+Signal Generator, Spectral Analyzer, Vector Network Analyzer, Power Meter, Oscilloscope, Single tone / multi-tone test for TX and RX chains, BBPD test for TX chains, Circuit schematic diagrams, Block diagrams, Allegro, ADS, Cadence
+
+RF Design Tools and Knowledge
+Agilent ADS, Cadence SpectreRF, Allegro, Ansoft, Matlab, Labview in Windows or Unix Environment
+Wireless GSM, WIMAX, CDMA, LTE standards and protocles such as 802.16e-2005, WCDMA, IS-95 etc.
+RF and RFIC circuit design and simulation (LNA, MIXER, VCO, PLL and PA, TX and RX chains, etc)
+MIMO system design and optimization
+
+Networking and Telecommunications Expertise
+Experience with the following technologies: ATM, IEEE 802.11b WLAN, Ethernet, UMTS, SONET/SDH, APS, IP, 10/100 BT Ethernet, ADSL, SDSL, HDSL, 2B1Q DSL, NMS, TCP/IP, SERDES, T1/E1, DS3/E3, Cell Relay, ISDN PRI, ADPCM voice compression, and RS-232/X.21/V.35, ATM (Asynchronous Transfer Mode), TCP/IP, OSI, Cisco CCNA1, CCNA2, CCNA3, CCNA4
+
+Hardware and Test Expertise
+PMC-642 PMC-643 (Fibre Channel, SCSI, IP, VI)
+PMCs/XMCs (MIL-STD-1553, Gigabit Ethernet)
+SVME/DMV-183 (6U VME Single Board Computer; VxWorks Board Support Package)
+Multi-Processing Digital Signal Processor; Linux BSP)
+SVME/DMV-1905 (6U VME Intel Core i7 Arrandale SBC; Linux BSP, Fiber-Optic I/O; Linux BSP, Altivec, BIT (Built In Tests)
+CPCI (Compact Peripheral Component Interconnect) DIO (Digital Input Output), ECC (Error Correcting Code Memory)
+Ethernet Flash, LED (Light Emitting Diode), MATH
+NVRAM (Non-Volatile RAM), RAM (Random Access Memory)
+RTC (Real-Time Clock), SATA, SCSI, Serial Drivers (MPSC/TYCO, Sync/Async), Thermal Sensors, USB (Universal Serial Bus)
+Daifuku Automated Storage/Retrieval System (AS/RS)
+
+Project Management Professional
+SMART Project Management, PMO workshop - City of Ottawa 
+The Project Manager's Guide to Project Initiation - City of Ottawa
+The Project Manager's Guide to Scope Definition and Management
+Project Management Framework workshop - City of Ottawa
+Performance Management Association 
+Agile Practitioner - ScrumMaster Alliance - Certificate of Completion
+Prince 2 - Certificate of Completion (50% complete)
+Capability Maturity Model Integration (CMMI)
+Project Management II, Project Management I
+
+Lean Six Sigma Black Belt Expertise
+LEAN, Six Sigma Black Belt, Minitab, Kaizen, FMEA Influencing, Process Mapping, Swim Lanes, Risk Analysis, Root Cause Analysis, Ishikawa
+Fishbone Analysis, Pareto, Value Stream Analysis, Brainstorming Control Plan, Statistical Process Control, DMAIC, DMADV
+
+Professional Workshops
+EASL Process Mapping Workshop- Ben Graham Group 
+Gartner - IT Performance Measurement Best Practices workshop
+Gartner - Creating an IT Performance Measurement and Management Program
+Gartner Group – TCO Total Cost of Ownership Methodology Workshop
+2012 Ottawa Spring Conference - Social Media & The Wired Workplace
+
+Software Applications Knowledge
+C#, C/C++, Java, JavaScript, Action Script, VB6, VB.Net, VBScript, SQL, TSQL, PL/SQL, ASP.NET, PHP, JSP, Eiffel, Objective Caml, Prolog, Adobe Photoshop, Adobe Acrobat, Dreamweaver, Flash, HTML, XHTML, XML, XSLT, CSS, VRML, MySql, Oracle, MS SQL Server 2005/2008, Crystal Reports, MS Access, Visio, DOM, SVN, Visual Studio 2008, Gigasoft graphics, Ajax, ActiveX
+
+Help Desk Tools
+Support Magic, Help Star, Documentum Records Management System, RDIMS, Remedy
+
+Learning Management Systems Expertise
+Docent Technologies LMS v6.5, Operitel – LearnFlex
+DomainKnow Learning Content Management System – LCMS
+SABA, Force Ten, Lectora, Storyboarding, Wireframing, Instructional Design, Desire2Learn, EdCetra Training
+
+Soft Skills Training
+Interviewing and Counseling – Algonquin College, Ottawa, On
+Coaching Skills workshop – ITO 2.0, Ottawa, On
+Stress Management – PwC staff training
+Personal Effectiveness Training (P.E.T)
+Toast Masters – Ottawa, On
+
+Office Tools 
+MSOffice, MS Excel, MSWord, MS PowerPoint, MSExchange, MSOutlook, Netscape, Internet Explorer, MS Project, Access, FoxPro, Visio, Keyboarding - 70 wpm, 10K kph
+
+Security Clearance
+Enhanced Reliability, Secret II (in progress, active or eligible?)
+
+Language Skills
+English, French
+
+Volunteer Work
+Canvasser – United Way
+Coach – Ottawa Youth Bowling League 
+Marathon runner – Heart and Stroke Foundation
+
+Memberships and Associations
+Project Management Institute – PMI Member
+Association for Proposal Management Professionals – APMP
+Ottawa Software Quality Association
+American Society for Quality (ASQ)
+Agile CMMI, Software Testing - ISTQB/ISEB, Lean Six Sigma
+International Association of Business Communicators (IABC)
+Health Care Public Relations Association (HCPRA)	
+Toastmasters International - Ottawa Hospital Club President, Area Governor, Competent Toastmaster (CTM) and Competent Leader (CL) certifications
+
+Functional Knowledge
+WHMIS certification 2010, CPR 2008, First Aid 2008
+Smart Serve, Safe Food Handling Certificate
+
+Awards and Recognition
+Gold RAP award – Digital Equipment of Canada, Ottawa, ON.  Received plaque and $1k, for achieving highest accuracy in inventory control and outgoing shipments for a 1-year period on 1 million PCs
+

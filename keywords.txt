@@ -1,0 +1,119 @@
+Access platform
+Application Technology
+Architecture
+Artificial Intelligence
+Banner advertisement
+BSS/ OSS
+Business Analysis
+Business Continuity
+Business support systems (BSS)
+Business Transformation
+C++ Programming
+Capital Budgets
+Certificate authority
+Change Management
+Cloud Computing
+Co-branding
+Competitive intelligence
+Compliance and Security
+Component development
+Customization and Configuration
+Data Centre Operations
+Data Controller
+Data Gathering
+Data Localization
+Data mining/warehousing
+Database Administration
+Database Design
+Database Development
+Database Integration
+Database Management
+Delivery Systems
+Designed
+Design Patterns
+Digital Marketing (pull/push)
+Digital Media
+Directed
+Disaster Recovery
+Distributed Systems
+Distribution channels
+E-commerce
+Electronic data interchange (EDI)
+Electronic marketing
+Encryption
+End-User Support
+Enterprise Systems
+E-portal
+Fault Analysis
+Framework
+Geographic Information System (GIS)
+Global HITS
+Graphic design
+Information Security
+Information Technology
+Infrastructure Development
+Intellectual Property Rights (IPR)
+Java Technology
+Knowledge management
+LAN/WAN
+Licensing
+Machine Learning
+Management Information System (MIS)
+MS SQL
+Multiplatform Integration
+Needs Assessment
+Network Administration
+Network Engineering
+Network solutions
+NoSQL
+Open Source Technology
+Operations support systems (OSS)
+Oracle
+Privacy Policy
+Process Reengineering
+Product Launch
+Product Lifecycle Development
+Product Testing
+Professional Service
+Program Management
+Programming / Coding
+Project Management
+Quality Assurance / Code Testing
+Research & Development
+Resource Management
+Root Cause Analysis
+SAS/SPSS
+Scalability and Product Extensions
+SCRUM
+SDLC
+Search Engine Optimization (SEO)
+Service-Oriented Architecture
+Software Configuration
+Software Development
+Software Engineering
+Software Installation / Upgrade
+Software-as-as-Service
+Solutions Delivery
+SQL
+Structured Query Language (SQL)
+System Integration
+Systems Administration
+Systems Configuration
+Systems Deployment
+Systems Development Life Cycle (SDLC)
+Technical Documentation
+Technical Support
+Technology Stack
+Testing
+Turnkey
+UML
+UNIX
+User Interface Design
+Vendor Management
+Visual Basic
+Voice over Internet Protocol (VoIP)
+Vortals (Vertical Industry Portals)
+Web Administration
+Web-Based Technology
+Workflow Management
+Yield Management
