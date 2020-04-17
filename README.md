@@ -23,4 +23,4 @@ I run this script from my PyCharm IDE and it uses Python 3.7. I have also run th
 (see the example below)
 
 #### Example:
-* _python keywordevaluator.py keywords.txt "Technical Resume Template 2018 V5.txt" results.txt_
+* _python keywordevaluator.py keywords.txt "Technical Resume Template.txt" results.txt_
