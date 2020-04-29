@@ -4,7 +4,7 @@ from keywordevaluator import KeywordEvaluator
 
 class KeywordEvaluatorTest(unittest.TestCase):
     TEST_KEYWORD_FILE_NAME = 'keywords_test.txt'
-    TEST_KEYWORD_EVALUATE_FILE_NAME = 'Technical Resume Sample.txt'
+    TEST_KEYWORD_EVALUATE_FILE_NAME = 'TechnicalResumeSample1.txt'
     TEST_KEYWORD_EVALUATION_RESULTS_FILE = 'keywords_test_results.txt'
     TEST_KEYWORDS = ['SQL']
     TEST_KEYWORD_RESULTS = [
