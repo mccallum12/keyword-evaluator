@@ -1,0 +1,121 @@
+Engineering Manager
+Engineering · Ottawa, Ontario
+About Fullscript
+
+ 
+
+Fullscript is an e-commerce platform that allows healthcare practitioners to dispense professional-grade nutritional supplements to their patients. Practitioners prescribe products through an e-script, and we facilitate checkout and shipping to their patients. Our content and algorithms provide evidence-based decision support for practitioners and patients along the way.
+
+ 
+
+The technology we’ve built has changed the way health is prescribed, and we’re just getting started. Our team collaborates tightly, ships quickly and has a ton of fun. We’re growing rapidly, so join the team and you’ll get a chance to shape the future of our company and the healthcare industry.  
+
+ 
+
+Fullscript is owned and operated by Natural Partners Fullscript, with offices in both Ottawa, Ontario and Scottsdale, Arizona.
+
+ 
+
+About the role
+
+ 
+
+We’re looking for an Engineering Manager to help manage and scale up the processes, culture, and careers of everyone on our team. You’ll be integral in fostering an environment where people can grow professionally and do their best work. 
+
+ 
+
+We care deeply about our developer culture - you can read more about it here: https://brand.fullscript.com/developer-handbook.html. We care deeply about psychological safety for our teams. The initiatives we lead are all about creating high team engagement. We do that by ensuring our engineers feel that they are on purpose, that they have the autonomy to choose their tasks, the opportunity to learn from the best and become better at their craft.
+
+ 
+
+If you share our values, we’d be excited to talk with you!
+
+ 
+
+What you’ll be doing:
+
+Managing a team of 10-20 developers across multiple disciplines
+
+Actively coaching and mentoring developers to help them achieve career goals
+
+Performing regular one-on-ones and bi-annual performance reviews with team members
+
+Improving our development processes to keep the team happy and productive
+
+Fostering a healthy developer culture, and coordinating team events (workshops, dev talks, hackathons, etc.)
+
+Working with recruiting to build an incredible development team
+
+Requirements:
+
+7+ years of experience in software development, and 1+ years in a technical management role
+
+Experience scaling a development team and processes
+
+You’re an effective communicator that cares deeply about people & team dynamics
+
+A passion for creating and mentoring engineering teams; you enjoy watching engineers learn and thrive in their careers.
+
+You believe in, and understand the importance of our team culture
+
+Well versed at interviewing candidates for fit within a team
+
+Bonus points
+
+Experience working in a startup
+
+A deep understanding and appreciation of building scalable web applications (especially in the languages we write: Ruby, Go, JavaScript).
+
+You have led a team larger than 20+ developers
+
+Experience facilitating retrospectives
+
+What we offer
+
+ 
+
+Fullscript is for passionate people who have a good attitude and want to have an impact. We are growing rapidly, but there’s still a huge amount to do. There are many areas of the team that you can affect and at Fullscript you’ll be able to see the impact of your work from day one.
+
+ 
+
+Of course, we offer the standard good stuff: competitive pay, training budget, fully stacked health insurance, discounts to our Fullscript products, generous PTO and paid holiday.
+
+ 
+
+To apply please write a cover letter addressed to Kurtis Funai. Your cover letter should be specific.
+
+ 
+
+We can’t wait to read your application!
+
+ 
+
+The Natural Partners Fullscript Story
+
+ 
+
+Natural Partners Fullscript is a disruptive healthcare technology and service company. Our portfolio brings together the best nutritional supplement wholesale business with the premier online supplement dispensing platform. We provide innovative solutions for integrative practitioners and patients who seek a personalized experience and a holistic approach to healthcare.
+
+ 
+
+In the summer of 2018, Natural Partners, a national player in wholesale supplement distribution, merged with Fullscript, the creators of the first online supplement dispensing platform, to create Natural Partners Fullscript. Since then, NPFS has been the preferred partner of over 300+ professional supplement brands, EHRs such as Power2Practice and Jane, and major influencers in integrative health including Dr. Josh Axe and Dr. Aviva Romm.
+
+ 
+
+As the market leaders, with a track record for incredible results and a target of 100% annualized growth, we go above and beyond to make dispensing wellness easy.
+
+ 
+
+Want to learn more? check us out - www.fullscript.com  and www.naturalpartners.com or find us on social media.
+
+ 
+
+Natural Partners Fullscript is committed to diversity in its workforce and is proud to be an equal opportunity employer. We are excited to work with talented people, period.
+
+ 
+
+Our team handles a lot of sensitive information, which means we require all candidates that receive and accept employment offers to complete a background check before being hired.
+
+ 
+
+We are also committed to providing reasonable accommodations to individuals with disabilities. If you need a reasonable accommodation because of a disability for any part of the employment process, please send an email to either accommodations@fullscript.com or accommodations@naturalpartners.com and let us know the nature of your request and your contact information.

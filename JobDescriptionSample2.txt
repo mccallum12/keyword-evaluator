@@ -1,0 +1,35 @@
+The Business Entity
+Cisco is the worldwide leader in networking that transforms how people connect, communicate, and collaborate. Since 1984, Cisco has led in the innovation of several networking technologies such as routing, switching, security, unified communications, video, and wireless. Cisco continues to lead in new areas such as Cloud, Data Center, Virtualization, SDN, Internet of Things. Our responsible business practices help ensure business sustainability and environmentally conscious operations and products.
+
+Cisco is a $50 Billion dollar global leader in supplying leading edge, best-in-class networking products driving today's Internet. The company is ranked as one of the world's best employers and spends over $6 Billion dollars a year invested in R&D. Cisco is a great and amazing place to grow your career. You will work within an Agile team environment and have the opportunity to continue to enhance your architecture and programming skills.
+
+The Team
+You will be part of a team responsible to design, implement and
+collaborate on L2 & L3 features that will run on the existing and next
+generation of Core and Edge routers and switches. You will have the opportunity to make an impact to the world in a fun thriving environment and to interact closely with Service Provider and OTT/Web customers.
+
+Role & Responsibilities
+Participate in the development of software for our routers and switches, with emphasis in routing protocols
+Work closely with our customers to assist them in building and deploying leading-edge L2 & L3 features and applications.
+Champion new/improved design and testing methodologies
+Potentially participate in Cisco Patent Program and standardization activities (IETF, IEEE, etc)
+Minimum Qualifications
+Typically requires BASc or MASc
+Experience in developing embedded systems based on real-time OS
+Excellent programming skills in C or C++, Python, TCL or Perl
+A grasp of networking technologies, routing protocols, OS infra-structures, Linux
+Creative problem solving skills and excellent troubleshooting/debugging skills
+Experience with test methodologies
+Strong written and verbal communication, experience in presenting ideas/concepts
+Ability to handle multiple tasks at the same time, prioritize them and manage time effectively
+Self motivated, highly ambitious, has a desire to challenge the status-quo
+Desired Skills
+CCIE or other networking certifications
+@CiscoCareers is #hiring #Software engineer #networking #switching #data center #protocols
+Industry
+Computer Hardware  Computer Software  Computer Networking
+Employment Type
+Full-time
+
+Job Functions
+Engineering  Information Technology
