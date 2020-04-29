@@ -1,14 +1,14 @@
 import sys
 
-class KeywordEvaluator():
+
+class KeywordEvaluator:
     '''
     A simple class to evaluate files for occurrences of defined keywords - originally designed to review your
     resume against a defined set of keywords. You can create multiple keyword definition files and evaluate your file
     against any set. You could use a file for general keywords and another file for keywords you have detected
     on a specific job description.
     '''
-    txt_file_line_separator = '\n'
-    keywords_list = []
+    TXT_FILE_LINE_SEPARATOR = '\n'
 
     def __init__(self, kw_filename):
         '''
@@ -16,6 +16,7 @@ class KeywordEvaluator():
         that will be searched for in an evaluation of a file.
         :param kw_filename:
         '''
+        self.keywords_list = []
         kw_file = None
         try:
             # Read keyword file to seed keyword list
@@ -24,7 +25,7 @@ class KeywordEvaluator():
                 for line in kw_file:
                     # We are adding each keyword to our keyword list - also need to strip off the line ending so
                     # we split at the line ending and append the keyword portion only
-                    self.keywords_list.append(line.split(self.txt_file_line_separator)[0])
+                    self.keywords_list.append(line.split(self.TXT_FILE_LINE_SEPARATOR)[0])
             print('Keyword file: {} read successfully'.format(kw_filename))
         except Exception as err:
             print('Caught Exception opening / reading keyword file: {}', err)
@@ -52,7 +53,7 @@ class KeywordEvaluator():
             kw_results_list = []
             for keyword in self.keywords_list:
                 keyword_count_int = evaluation_contents_str.count(keyword)
-                kw_results_list.append([keyword,keyword_count_int])
+                kw_results_list.append((keyword, keyword_count_int))
             print('Successfully evaluated file: {} for keywords'.format(file_to_evaluate_str))
             # Now sort before returning using reverse sort to see highest hits
             # key is set to sort using second element of sublist lambda has been used
@@ -85,10 +86,10 @@ class KeywordEvaluator():
         '''
         try:
             with open(output_file_str, 'w') as output_file:
-                output_file.write("Keyword, Result" + self.txt_file_line_separator)
+                output_file.write("Keyword, Result" + self.TXT_FILE_LINE_SEPARATOR)
                 for result in keyword_results_list:
                     # We separate the tuple for the CSV format and then add the line ending
-                    output_file.write(result[0] + "," + str(result[1]) + self.txt_file_line_separator)
+                    output_file.write("'" + result[0] + "'," + str(result[1]) + self.TXT_FILE_LINE_SEPARATOR)
             print('Successfully wrote output file: {} for keywords results'.format(output_file_str))
         except Exception as err:
             print('Caught Exception opening / writing keyword results to file: {}'.format(output_file_str))
