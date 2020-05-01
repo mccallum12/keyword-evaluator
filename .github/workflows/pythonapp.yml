@@ -33,5 +33,5 @@ jobs:
         flake8 . --count --exit-zero --max-complexity=10 --max-line-length=127 --statistics
     - name: Test with pytest
       run: |
-        pytest test_keyword_extractor.py
-        pytest test_keyword_evaluator.py
+        pytest test/test_keyword_extractor.py
+        pytest test/test_keyword_evaluator.py
