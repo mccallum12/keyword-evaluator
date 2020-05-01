@@ -106,7 +106,7 @@ def main():
     defined keywords - will output the results to the console and additionally to a file if requested.
     All input parameters are passed via commandline arguments
 
-    Commandline ex: Python keywordevaluator.py keyword_text_file text_file_to_be_evaluated [results_output_file]
+    Commandline ex: Python keyword_evaluator.py keyword_text_file text_file_to_be_evaluated [results_output_file]
     :return:
     '''
     # Make a list of command line arguments, omitting the [0] element which is the script itself.

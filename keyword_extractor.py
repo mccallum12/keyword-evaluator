@@ -64,7 +64,7 @@ def main():
     All input parameters are passed via commandline arguments
 
     Commandline ex:
-    Python keywordextractor.py keyword_stopword_filename text_filename_for_keyword_extraction [results_output_file]
+    Python keyword_extractor.py keyword_stopword_filename text_filename_for_keyword_extraction [results_output_file]
     :return:
     '''
     # Make a list of command line arguments, omitting the [0] element which is the script itself.

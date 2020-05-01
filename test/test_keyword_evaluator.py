@@ -1,11 +1,11 @@
 import unittest
-from keywordevaluator import KeywordEvaluator
+from keyword_evaluator import KeywordEvaluator
 
 
 class KeywordEvaluatorTest(unittest.TestCase):
-    TEST_KEYWORD_FILE_NAME = 'keywords_test.txt'
-    TEST_KEYWORD_EVALUATE_FILE_NAME = 'TechnicalResumeSample1.txt'
-    TEST_KEYWORD_EVALUATION_RESULTS_FILE = 'keywords_test_results.txt'
+    TEST_KEYWORD_FILE_NAME = 'EvaluatorTestKeywords.txt'
+    TEST_KEYWORD_EVALUATE_FILE_NAME = '../samples/TechnicalResumeSample1.txt'
+    TEST_KEYWORD_EVALUATION_RESULTS_FILE = 'EvaluatorTestOutputFile.txt'
     TEST_KEYWORDS = ['SQL']
     TEST_KEYWORD_RESULTS = [
         ('SQL', 5)
