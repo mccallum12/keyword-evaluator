@@ -1,3 +1,5 @@
+![Python application](https://github.com/mccallum12/keyword-evaluator/workflows/Python%20application/badge.svg)
+
 # Keyword Evaluator
 
 This Python script reports the number of keyword occurrences found in a file being evaluated for keywords.
