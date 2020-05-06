@@ -1,11 +1,16 @@
+import os
 import unittest
-from keyword_extractor import KeywordExtractor
+
+import keyword_extractor
+
+MODULE_DIR = os.path.abspath(os.path.dirname(__file__))
+EXTRACT_DIR = os.path.abspath(os.path.dirname(keyword_extractor.__file__))
 
 
 class KeywordExtractorTest(unittest.TestCase):
-    TEST_KEYWORD_EXTRACT_STOPWORD_FILE_NAME = '../StandardStopwords.txt'
-    TEST_KEYWORD_EVALUATE_FILE_NAME = 'ExtractorTestText.txt'
-    TEST_KEYWORD_EXTRACTION_RESULTS_FILE = 'ExtractorTestOutputFile.txt'
+    TEST_KEYWORD_EXTRACT_STOPWORD_FILE_NAME = os.path.join(EXTRACT_DIR,'StandardStopwords.txt')
+    TEST_KEYWORD_EVALUATE_FILE_NAME = os.path.join(MODULE_DIR, 'ExtractorTestText.txt')
+    TEST_KEYWORD_EXTRACTION_RESULTS_FILE = os.path.join(MODULE_DIR, 'ExtractorTestOutputFile.txt')
     TEST_KEYWORD_EXTRACTION_RESULTS = [
         ('mobile version works', 8.5),
         ('web version', 4.5),
@@ -22,7 +27,7 @@ class KeywordExtractorTest(unittest.TestCase):
     ]
 
     def setUp(self):
-        self.kw_extrctr = KeywordExtractor(self.TEST_KEYWORD_EXTRACT_STOPWORD_FILE_NAME)
+        self.kw_extrctr = keyword_extractor.KeywordExtractor(self.TEST_KEYWORD_EXTRACT_STOPWORD_FILE_NAME)
 
     def tearDown(self):
         self.kw_extrctr = None

@@ -1,18 +1,23 @@
+import os
 import unittest
-from keyword_evaluator import KeywordEvaluator
+
+import keyword_evaluator
+
+MODULE_DIR = os.path.abspath(os.path.dirname(__file__))
+EVAL_DIR = os.path.abspath(os.path.dirname(keyword_evaluator.__file__))
 
 
 class KeywordEvaluatorTest(unittest.TestCase):
-    TEST_KEYWORD_FILE_NAME = 'EvaluatorTestKeywords.txt'
-    TEST_KEYWORD_EVALUATE_FILE_NAME = '../samples/TechnicalResumeSample1.txt'
-    TEST_KEYWORD_EVALUATION_RESULTS_FILE = 'EvaluatorTestOutputFile.txt'
+    TEST_KEYWORD_FILE_NAME = os.path.join(MODULE_DIR, 'EvaluatorTestKeywords.txt')
+    TEST_KEYWORD_EVALUATE_FILE_NAME = os.path.join(EVAL_DIR, 'samples/TechnicalResumeSample1.txt')
+    TEST_KEYWORD_EVALUATION_RESULTS_FILE = os.path.join(MODULE_DIR, 'EvaluatorTestOutputFile.txt')
     TEST_KEYWORDS = ['SQL']
     TEST_KEYWORD_RESULTS = [
         ('SQL', 5)
     ]
 
     def setUp(self):
-        self.kw_eval = KeywordEvaluator(self.TEST_KEYWORD_FILE_NAME)
+        self.kw_eval = keyword_evaluator.KeywordEvaluator(self.TEST_KEYWORD_FILE_NAME)
 
     def tearDown(self):
         self.kw_eval = None

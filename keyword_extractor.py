@@ -1,5 +1,7 @@
 import sys
+
 import RAKE
+
 
 class KeywordExtractor:
     TXT_FILE_LINE_SEPARATOR = '\n'
